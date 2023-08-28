@@ -1,0 +1,91 @@
+Date,Day,Breakfast Item,Lunch Items,High Tea Items,Dinner Items
+8/2/2023,Monday,"Upma, Poha","Dal Tadka, Chapati","Samosa, Chai",Aloo Matar
+8/3/2023,Tuesday,"Idli, Sambar","Vada, Rice","Gulab Jamun, Chai","Raita, Dal Fry"
+8/4/2023,Wednesday,"Dhokla, Peanut Chutney","Chana Masala, Rice","Jalebi, Chai",Aloo Gobi
+8/5/2023,Thursday,"Ragi Muddë, Ghee Roast","Matar Paneer, Rice","Papad, Chai",Dal Makhani
+8/6/2023,Friday,"Uttapam, Sambar",Rajma Chawal,"Ladoo, Chai",Palak Paneer
+8/7/2023,Saturday,"Poori, Sabzi","Aloo Paratha, Raita","Gulab Jamun, Chai",Dal Fry
+8/8/2023,Sunday,"Idli, Vada","Sambar, Rice","Jalebi, Chai",Chana Masala
+8/9/2023,Monday,"Poha, Upma","Dal Tadka, Chapati","Gulab Jamun, Chai",Aloo Matar
+8/10/2023,Tuesday,"Dhokla, Peanut Chutney","Chana Masala, Rice","Papad, Chai","Raita, Dal Fry"
+8/11/2023,Wednesday,"Ragi Muddë, Ghee Roast","Aloo Gobi, Rice","Samosa, Chai",Dal Makhani
+8/12/2023,Thursday,"Uttapam, Sambar","Palak Paneer, Rice","Ladoo, Chai",Malai Kofta
+8/13/2023,Friday,"Poori, Sabzi","Paneer Butter Masala, Raita","Gulab Jamun, Chai",Shahi Paneer
+8/14/2023,Saturday,"Idli, Vada","Dal Fry, Chapati","Jalebi, Chai",Aloo Tikki
+8/15/2023,Sunday,"Poha, Upma","Chana Masala, Rice","Papad, Chai","Raita, Dal Tadka"
+8/16/2023,Monday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Aloo Matar
+8/17/2023,Tuesday,"Ragi Muddë, Ghee Roast","Dal Makhani, Rice","Papad, Chai",Palak Paneer
+8/18/2023,Wednesday,"Uttapam, Sambar","Malai Kofta, Rice","Ladoo, Chai",Shahi Paneer
+8/19/2023,Thursday,"Poori, Sabzi","Paneer Butter Masala, Raita","Gulab Jamun, Chai",Aloo Tikki
+8/20/2023,Friday,"Idli, Sambar","Aloo Paratha, Raita","Gulab Jamun, Chai",Dal Tadka
+8/21/2023,Saturday,"Poha, Upma","Chana Masala, Rice","Papad, Chai","Raita, Malai Kofta"
+8/22/2023,Sunday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Aloo Gobi
+8/23/2023,Monday,"Ragi Muddë, Ghee Roast","Dal Makhani, Rice","Samosa, Chai",Palak Paneer
+8/24/2023,Tuesday,"Uttapam, Sambar","Malai Kofta, Rice","Ladoo, Chai",Shahi Paneer
+8/25/2023,Wednesday,"Poori, Sabzi","Paneer Butter Masala, Raita","Gulab Jamun, Chai",Aloo Tikki
+8/26/2023,Thursday,"Idli, Vada","Dal Fry, Chapati","Jalebi, Chai","Raita, Dal Tadka"
+8/27/2023,Friday,"Poha, Upma","Chana Masala, Rice","Papad, Chai",Aloo Matar
+8/28/2023,Saturday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Dal Makhani
+8/29/2023,Sunday,"Ragi Muddë, Ghee Roast","Malai Kofta, Rice","Ladoo, Chai",Shahi Paneer
+8/30/2023,Monday,"Uttapam, Sambar","Aloo Tikki, Rice","Gulab Jamun, Chai",Dal Tadka
+8/31/2023,Tuesday,"Poori, Sabzi","Paneer Butter Masala, Raita","Papad, Chai",Aloo Gobi
+9/1/2023,Wednesday,"Idli, Vada","Dal Fry, Chapati","Jalebi, Chai","Raita, Palak Paneer"
+9/2/2023,Thursday,"Poha, Upma","Chana Masala, Rice","Samosa, Chai",Dal Makhani
+9/3/2023,Friday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Aloo Matar
+9/4/2023,Saturday,"Ragi Muddë, Ghee Roast","Dal Makhani, Rice","Papad, Chai",Palak Paneer
+9/5/2023,Sunday,"Uttapam, Sambar","Malai Kofta, Rice","Ladoo, Chai",Shahi Paneer
+9/6/2023,Monday,"Poori, Sabzi","Paneer Butter Masala, Raita","Gulab Jamun, Chai",Aloo Tikki
+9/7/2023,Tuesday,"Idli, Sambar","Aloo Gobi, Rice","Jalebi, Chai",Dal Tadka
+9/8/2023,Wednesday,"Poha, Upma","Chana Masala, Rice","Papad, Chai","Raita, Palak Paneer"
+9/9/2023,Thursday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Aloo Matar
+9/10/2023,Friday,"Ragi Muddë, Ghee Roast","Dal Makhani, Rice","Samosa, Chai",Malai Kofta
+9/11/2023,Saturday,"Uttapam, Sambar","Shahi Paneer, Rice","Ladoo, Chai",Aloo Tikki
+9/12/2023,Sunday,"Poori, Sabzi","Paneer Butter Masala, Raita","Papad, Chai",Dal Fry
+9/13/2023,Monday,"Idli, Vada","Dal Tadka, Chapati","Gulab Jamun, Chai","Raita, Aloo Gobi"
+9/14/2023,Tuesday,"Poha, Upma","Chana Masala, Rice","Papad, Chai",Dal Makhani
+9/15/2023,Wednesday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Aloo Matar
+9/16/2023,Thursday,"Ragi Muddë, Ghee Roast","Aloo Matar, Rice","Samosa, Chai",Dal Makhani
+9/17/2023,Friday,"Uttapam, Sambar","Palak Paneer, Rice","Ladoo, Chai",Malai Kofta
+9/18/2023,Saturday,"Poori, Sabzi","Paneer Butter Masala, Raita","Gulab Jamun, Chai",Shahi Paneer
+9/19/2023,Sunday,"Idli, Vada","Dal Fry, Chapati","Jalebi, Chai",Aloo Tikki
+9/20/2023,Monday,"Poha, Upma","Chana Masala, Rice","Papad, Chai","Raita, Dal Tadka"
+9/21/2023,Tuesday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Aloo Gobi
+9/22/2023,Wednesday,"Ragi Muddë, Ghee Roast","Dal Makhani, Rice","Papad, Chai",Palak Paneer
+9/23/2023,Thursday,"Uttapam, Sambar","Malai Kofta, Rice","Ladoo, Chai",Shahi Paneer
+9/24/2023,Friday,"Poori, Sabzi","Paneer Butter Masala, Raita","Gulab Jamun, Chai",Aloo Tikki
+9/25/2023,Saturday,"Idli, Sambar","Aloo Paratha, Raita","Gulab Jamun, Chai",Dal Tadka
+9/26/2023,Sunday,"Poha, Upma","Chana Masala, Rice","Papad, Chai","Raita, Malai Kofta"
+9/27/2023,Monday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Aloo Gobi
+9/28/2023,Tuesday,"Ragi Muddë, Ghee Roast","Dal Makhani, Rice","Samosa, Chai",Palak Paneer
+9/29/2023,Wednesday,"Uttapam, Sambar","Malai Kofta, Rice","Ladoo, Chai",Shahi Paneer
+10/1/2023,Thursday,"Poori, Sabzi","Paneer Butter Masala, Raita","Gulab Jamun, Chai",Aloo Tikki
+10/2/2023,Friday,"Idli, Vada","Dal Fry, Chapati","Jalebi, Chai","Raita, Dal Tadka"
+10/3/2023,Saturday,"Poha, Upma","Chana Masala, Rice","Papad, Chai",Aloo Matar
+10/4/2023,Sunday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Dal Makhani
+10/5/2023,Monday,"Ragi Muddë, Ghee Roast","Aloo Gobi, Rice","Samosa, Chai",Palak Paneer
+10/6/2023,Tuesday,"Uttapam, Sambar","Paneer Butter Masala, Rice","Ladoo, Chai",Shahi Paneer
+10/7/2023,Wednesday,"Poori, Sabzi","Aloo Tikki, Raita","Papad, Chai",Dal Fry
+10/8/2023,Thursday,"Idli, Vada","Dal Tadka, Chapati","Jalebi, Chai","Raita, Malai Kofta"
+10/9/2023,Friday,"Poha, Upma","Chana Masala, Rice","Samosa, Chai",Dal Makhani
+10/10/2023,Saturday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Aloo Matar
+10/11/2023,Sunday,"Ragi Muddë, Ghee Roast","Dal Makhani, Rice","Papad, Chai",Palak Paneer
+10/12/2023,Monday,"Uttapam, Sambar","Malai Kofta, Rice","Ladoo, Chai",Shahi Paneer
+10/13/2023,Tuesday,"Poori, Sabzi","Paneer Butter Masala, Raita","Gulab Jamun, Chai",Aloo Tikki
+10/14/2023,Wednesday,"Idli, Sambar","Aloo Paratha, Raita","Gulab Jamun, Chai",Dal Tadka
+10/15/2023,Thursday,"Poha, Upma","Chana Masala, Rice","Papad, Chai","Raita, Palak Paneer"
+10/16/2023,Friday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Aloo Gobi
+10/17/2023,Saturday,"Ragi Muddë, Ghee Roast","Dal Makhani, Rice","Samosa, Chai",Malai Kofta
+10/18/2023,Sunday,"Uttapam, Sambar","Shahi Paneer, Rice","Ladoo, Chai",Aloo Tikki
+10/19/2023,Monday,"Poori, Sabzi","Paneer Butter Masala, Raita","Papad, Chai",Dal Fry
+10/20/2023,Tuesday,"Idli, Vada","Dal Tadka, Chapati","Jalebi, Chai","Raita, Aloo Matar"
+10/21/2023,Wednesday,"Poha, Upma","Chana Masala, Rice","Papad, Chai",Dal Makhani
+10/22/2023,Thursday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Aloo Gobi
+10/23/2023,Friday,"Ragi Muddë, Ghee Roast","Aloo Matar, Rice","Samosa, Chai",Dal Makhani
+10/24/2023,Saturday,"Uttapam, Sambar","Palak Paneer, Rice","Ladoo, Chai",Malai Kofta
+10/25/2023,Sunday,"Poori, Sabzi","Paneer Butter Masala, Raita","Gulab Jamun, Chai",Shahi Paneer
+10/26/2023,Monday,"Idli, Vada","Dal Fry, Chapati","Jalebi, Chai","Raita, Dal Tadka"
+10/27/2023,Tuesday,"Poha, Upma","Chana Masala, Rice","Papad, Chai",Aloo Matar
+10/28/2023,Wednesday,"Dhokla, Peanut Chutney","Matar Paneer, Rice","Gulab Jamun, Chai",Dal Makhani
+10/29/2023,Thursday,"Ragi Muddë, Ghee Roast","Dal Makhani, Rice","Papad, Chai",Palak Paneer
+10/30/2023,Friday,"Uttapam, Sambar","Malai Kofta, Rice","Ladoo, Chai",Shahi Paneer
+10/31/2023,Saturday,"Poori, Sabzi","Paneer Butter Masala, Raita","Gulab Jamun, Chai",Aloo Tikki
