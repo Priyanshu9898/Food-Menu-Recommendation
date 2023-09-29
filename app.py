@@ -23,18 +23,23 @@ def hello():
 def predict():
     response = openai.Completion.create(
         model="gpt-3.5-turbo-instruct",
-        prompt="""Create me a today's vegetarian menu of Indian Household in Below JSON format and do not include any extra spaces as well as new line in response.\n{"Breakfast": `MenuItems`, "Lunch": `MenuItems`, "High-Tea": `MenuItems`, "Dinner": `MenuItems`}""",
+        prompt="""Create me a today's vegetarian menu of Indian Household in Below JSON format. Things to consider in Response: do not include any extra spaces as well as new line with JSON object.\n {"Breakfast": `MenuItems`, "Lunch": `MenuItems`, "High-Tea": `MenuItems`, "Dinner": `MenuItems`}\n All MenuItems should be in form of array""",
         temperature=1,
         max_tokens=256,
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0
     )
+    
+    res = response['choices'][0]["text"]
 
-    # print(response['choices'][0]["text"])
-
-    return response['choices'][0]["text"]
+    res = res.strip()
+    res = res.replace("\n", "")
+    res = res.replace("\\", "")
+    
+    # print(res)
+    return json.loads(res)
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    app.run(debug=True, host="0.0.0.0", port=5000)
