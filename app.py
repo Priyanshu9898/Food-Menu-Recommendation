@@ -1,7 +1,8 @@
-from flask import Flask
+from flask import Flask, jsonify
 import os
 from dotenv import load_dotenv
 import openai
+import json
 
 load_dotenv()
 
@@ -22,7 +23,7 @@ def hello():
 def predict():
     response = openai.Completion.create(
         model="gpt-3.5-turbo-instruct",
-        prompt="""Create me a today's vegetarian menu of Indian Household in Below JSON format.\n{"Breakfast": `MenuItems`, "Lunch": `MenuItems`, "High-Tea": `MenuItems`, "Dinner": `MenuItems`}\n""",
+        prompt="""Create me a today's vegetarian menu of Indian Household in Below JSON format and do not include any extra spaces as well as new line in response.\n{"Breakfast": `MenuItems`, "Lunch": `MenuItems`, "High-Tea": `MenuItems`, "Dinner": `MenuItems`}""",
         temperature=1,
         max_tokens=256,
         top_p=1,
@@ -30,10 +31,10 @@ def predict():
         presence_penalty=0
     )
 
-    print(response)
+    # print(response['choices'][0]["text"])
 
     return response['choices'][0]["text"]
 
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=5000)
+    app.run(host="0.0.0.0", port=5000)
