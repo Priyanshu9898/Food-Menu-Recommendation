@@ -3,4 +3,5 @@ pandas
 numpy
 Flask
 flask-cors
+python-dotenv
 gunicorn
